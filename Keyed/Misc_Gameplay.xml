@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Various -->
@@ -21,13 +21,13 @@
   <Headshot>Headshot</Headshot>
   <FreshMissingBodyPart>świeże</FreshMissingBodyPart>
   <UntreatedLower>nieleczone</UntreatedLower>
-  <DevelopedImmunityLower>uzyskano odporność</DevelopedImmunityLower>
+  <DevelopedImmunityLower>nabyto odporność</DevelopedImmunityLower>
   <InjuryRequiresTreatment>wymaga lekarza do wyleczenia</InjuryRequiresTreatment>
   <NextTreatmentAfter>następne leczenie za {0} dni</NextTreatmentAfter>
   <MissingMedicalBillIngredient>brak {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>rozwój odporności</ImmunityDevelopmentProgress>
+  <ImmunityDevelopmentProgress>nabywanie odporności</ImmunityDevelopmentProgress>
   <Race>Rasa</Race>
-  <Description>Description</Description>
+  <Description>Opis</Description>
   <Equipment>Ekwipunek</Equipment>
   <Apparel>Strój</Apparel>
   <Inventory>Inwentarz</Inventory>
@@ -47,13 +47,13 @@
   <InvertArea>Odwracać</InvertArea>
   
   <!-- Control -->
-  <CannotOrderNonControlled>Nie można rozkazywać nie kontrolowanym jednostkom.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Nie można rozkazywać niekontrolowanym jednostkom.</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} jest niezdolny do przemocy.</IsIncapableOfViolence>
   <IsNotDrafted>{0} nie został powołany..</IsNotDrafted>
   
   <!-- Snow -->
   <SnowNone>Brak śniegu</SnowNone>
-  <SnowDusting>Śnieg (pruszy)</SnowDusting>
+  <SnowDusting>Śnieg (prószy)</SnowDusting>
   <SnowThin>Śnieg (mało)</SnowThin>
   <SnowMedium>Śnieg (średnio)</SnowMedium>
   <SnowThick>Śnieg (dużo)</SnowThick>
@@ -63,18 +63,18 @@
   <MinimumRange>Min. zasięg: </MinimumRange>
   <CanFireIn>Przeładuje się za: </CanFireIn>
   <ShellLoaded>Załadowany</ShellLoaded>
-  <ShellNotLoaded>Nie załadowany</ShellNotLoaded>
+  <ShellNotLoaded>Niezaładowany</ShellNotLoaded>
   
   <!-- Job reports -->
 	<ReportHaulingTo>Transportuje {0} do {1}.</ReportHaulingTo>
 	<ReportHauling>Transportuje {0}.</ReportHauling>
   <ReportSleeping>Śpi.</ReportSleeping>
   <ReportResting>Idzie spać.</ReportResting>
-  <WatchingSunrise>Watching the sunrise</WatchingSunrise>
-  <CloudWatching>Ogląda chmury</CloudWatching>
-  <WatchingSunset>Ogląda zachód słońca</WatchingSunset>
-  <Stargazing>Ogląda gwiazdy</Stargazing>
-  <WatchingEclipse>Obserwuje zaćmienie</WatchingEclipse>
+  <WatchingSunrise>Ogląda wschód słońca.</WatchingSunrise>
+  <CloudWatching>Ogląda chmury.</CloudWatching>
+  <WatchingSunset>Ogląda zachód słońca.</WatchingSunset>
+  <Stargazing>Ogląda gwiazdy.</Stargazing>
+  <WatchingEclipse>Obserwuje zaćmienie.</WatchingEclipse>
   <DeliveringFood>Dostarcza żywność do {0}.</DeliveringFood>
   <UsingVerb>Używa {0} na {1}.</UsingVerb>
   <AreaLower>obszar</AreaLower>
@@ -138,7 +138,7 @@
   
   <!-- Temperature readout -->
   <Indoors>W pomieszczeniu</Indoors>
-  <IndoorsUnroofed>Nie zadaszone</IndoorsUnroofed>
+  <IndoorsUnroofed>Niezadaszone</IndoorsUnroofed>
   <Outdoors>Na zewnątrz</Outdoors>
   
   <!--Rotting-->
@@ -161,7 +161,7 @@
   <!-- Rotting -->
   <CurrentlyFrozen>Zamrożone (nie zepsuje się)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Schłodzone (zepsuje się za {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Nie schłodzone (zepsuje się za {0})</NotRefrigerated>
+  <NotRefrigerated>Nieschłodzone (zepsuje się za {0})</NotRefrigerated>
   <OverADecade>ponad dekadę</OverADecade>
   
   <!-- Meal -->
@@ -182,7 +182,7 @@
   <NoGrowingPeriod>Nigdy</NoGrowingPeriod>
   <GrowYearRound>Cały rok</GrowYearRound>
   <GrowSeasonHereNow>Można uprawiać. </GrowSeasonHereNow>
-  <CannotGrowTooCold>Nie można uprawiać sezon zimowy.</CannotGrowTooCold>
+  <CannotGrowTooCold>Nie można uprawiać - sezon zimowy.</CannotGrowTooCold>
 
   <!-- Zones -->
   <Zone>Obszar</Zone>
@@ -236,13 +236,13 @@
   <!-- Cryptosleep casket -->
   <CasketContains>Zawartość</CasketContains>
   <CasketUnknownContents>Nieznana</CasketUnknownContents>
-  <CasketWarning>Uwaga!\n\nNAME jest twoim ostatnim kolonistą! Jak pozwolisz HIM wejść do kapsuły hibernacyjnej nie będziesz mógł kontynuować gry. Na pewno chcesz to zrobić?</CasketWarning>
+  <CasketWarning>Uwaga!\n\nNAME jest twoim ostatnim kolonistą! Jeśli pozwolisz mu wejść do kapsuły hibernacyjnej, nie będziesz mógł kontynuować gry. Na pewno chcesz to zrobić?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Nie można wystartować.</ShipReportCannotLaunch>
   <ShipReportCanLaunch>Gotowy do startu.</ShipReportCanLaunch>
   <ShipReportMissingPart>Brakuje ważnej części.</ShipReportMissingPart>
-  <ShipReportNoFullPods>Nie są zajęte wszystkie kapsuły hibernacyjne.</ShipReportNoFullPods>
+  <ShipReportNoFullPods>Nie wszystkie kapsuły hibernacyjne są zajęte.</ShipReportNoFullPods>
 
   <!-- Neurotrainer -->
   <UseNeurotrainer>Użyj neurotrenera {0}</UseNeurotrainer>
@@ -250,7 +250,7 @@
   
   <!-- Minification -->
   <Installed>Ustawione.</Installed>
-  <NotInstalled>Nie ustawione.</NotInstalled>
+  <NotInstalled>Nieustawione.</NotInstalled>
 
   <!-- Art -->
   <Title>Tytuł</Title>
@@ -262,7 +262,7 @@
 
   <!-- Quality -->
   <Quality>Jakość</Quality>
-  <QualityDescription>Jakość oznacza jak dobrze dany przedmiot został wykonany.</QualityDescription>
+  <QualityDescription>Jakość oznacza, jak dobrze dany przedmiot został wykonany.</QualityDescription>
   <QualityIs>Jakość: {0}</QualityIs>
     
   <!-- Mood descriptions -->
@@ -275,8 +275,8 @@
   <Mood_Happy>Szczęśliwy!</Mood_Happy>
   
   <!-- Game over -->
-  <GameOverEveryoneDead>Wszyscy zginęli albo odeszli. Ta historia dobiegła końca.\n\nMoże kto inny znajdzie pomysł na użycie ruin tego miejsca.</GameOverEveryoneDead>
-  <GameOverShipLaunched>Statek wystartował! Ci koloniści zdołali uciec:\n\n{0}\nCi koloniści pozostali na planecie:\n\n{1}\nSI spróbuje teraz dolecieć statkiem w bezpieczne miejsce. Może cię zostawić na lepszej planecie w tym systemie albo zabierze na wielowiekową podróż do innego systemu gwiezdnego. Może nawet zadecydować aby ukryć statek w lodowym asteroidzie na tysiące lat, czekając na lepsze czasy.\n\nDowiesz się, jak się obudzisz.</GameOverShipLaunched>
+  <GameOverEveryoneDead>Wszyscy zginęli albo odeszli. Ta historia dobiegła końca.\n\nMoże ktoś inny znajdzie pomysł na użycie ruin tego miejsca.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Statek wystartował! Ci koloniści zdołali uciec:\n\n{0}\nCi koloniści pozostali na planecie:\n\n{1}\nSI spróbuje teraz dolecieć statkiem w bezpieczne miejsce. Może cię zostawić na lepszej planecie w tym systemie albo zabierze na wielowiekową podróż do innego systemu gwiezdnego. Może nawet zadecydować, aby ukryć statek w lodowym asteroidzie na tysiące lat, czekając na lepsze czasy.\n\nDowiesz się, jak się obudzisz.</GameOverShipLaunched>
   <GameOverKeepPlaying>Graj dalej</GameOverKeepPlaying>
   <GameOverMainMenu>Główne menu</GameOverMainMenu>
   
@@ -285,7 +285,7 @@
 
   <!-- Traps -->
   <TrapArmed>Uzbrojony</TrapArmed>
-  <TrapNotArmed>nie uzbrojony</TrapNotArmed>
+  <TrapNotArmed>Nieuzbrojony</TrapNotArmed>
   <TrapRearmingCost>Koszt przezbrojenia: {0}</TrapRearmingCost>
   
 </LanguageData>

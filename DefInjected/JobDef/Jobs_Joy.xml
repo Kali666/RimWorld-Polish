@@ -14,9 +14,9 @@
   <!-- Building interaction -->
 	<PlayHorseshoes.reportString>Gra w podkowy.</PlayHorseshoes.reportString>
 	<PlayChess.reportString>Gra w szachy.</PlayChess.reportString>
-	<PlayBilliards.reportString>Gra w bilarda.</PlayBilliards.reportString>
+	<PlayBilliards.reportString>Gra w bilard.</PlayBilliards.reportString>
 	<WatchTelevision.reportString>Ogląda film.</WatchTelevision.reportString>
-	<UseTelescope.reportString>Uzywa teleskopu.</UseTelescope.reportString>
+	<UseTelescope.reportString>Używa teleskopu.</UseTelescope.reportString>
 	
 	
 </LanguageData>

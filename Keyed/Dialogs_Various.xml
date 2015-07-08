@@ -66,7 +66,7 @@
   <MapSizeSmall>Mały</MapSizeSmall>
   <MapSizeMedium>Średni</MapSizeMedium>
   <MapSizeLarge>Duży</MapSizeLarge>
-  <MapSizeExtreme>Extremalny</MapSizeExtreme>
+  <MapSizeExtreme>Ekstremalny</MapSizeExtreme>
   <MapStartMonth>Miesiąc lądowania:</MapStartMonth>
   <MapStartMonthDefault>Automatyczny</MapStartMonthDefault>
   
@@ -84,7 +84,7 @@
   <Infinite>W nieskończoność</Infinite>
   <MinimumSkillLevel>Min {0} poziom umiejętności</MinimumSkillLevel>
   
-  <RecipeCannotHaveTargetCount>(Dla tego przepisu nie można ustalić docelowej ilości ponieważ ma on różne lub nieprzewidywalne rezultaty.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(Dla tego przepisu nie można ustalić docelowej ilości, ponieważ ma on różne lub nieprzewidywalne rezultaty.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Ilość pracy</WorkAmount>
   <MinimumSkills>Minimalna umiejętność:</MinimumSkills>
   <BillRequires>Wymaga {0} {1}</BillRequires>
@@ -112,7 +112,7 @@
   <Harvestable>Można zbierać</Harvestable>
   <LimitedLifespan>Ograniczona żywotność</LimitedLifespan>
   <GrowingTime>Czas wzrostu</GrowingTime>
-  <GrowingTimeDesc>Rośliny rosną tylko przez pewną część dnia i tylko w świetle. Ta statystyka pokazuje ile czasu zajmie roślinom osiągnięcie maksymalnych rozmiarów. Prawdziwy czas wzrostu jest zazwyczaj mniej więcej dwa razy dłuższy. Rozwój spowalniają także niskie temperatury.</GrowingTimeDesc>
+  <GrowingTimeDesc>Rośliny rosną tylko przez pewną część dnia i tylko w świetle. Ta statystyka pokazuje, ile czasu zajmie roślinom osiągnięcie maksymalnych rozmiarów. Prawdziwy czas wzrostu jest zazwyczaj mniej więcej dwa razy dłuższy. Rozwój spowalniają także niskie temperatury.</GrowingTimeDesc>
   <Days>dni</Days>
   <FertilityRequirement>Wymagana żyzność gleby</FertilityRequirement>
   <LightRequirement>Wymagany typ światła</LightRequirement>
@@ -140,13 +140,13 @@
   <AcceptButton>Akceptuj</AcceptButton>
   <ResetButton>Zresetuj</ResetButton>
   <CancelButton>Anuluj</CancelButton>
-  <YourTradeableSilver>Twoje Srebro, którym możesz handlować: {0}</YourTradeableSilver>
+  <YourTradeableSilver>Twoje srebro, którym możesz handlować: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>Możesz handlować tylko srebrem, które leży niedaleko nadajnika handlu orbitalnego i nie jest pod dachem.</YourTradeableSilverTip>
   <TraderHasNoMore>Handlarz nie ma więcej.</TraderHasNoMore>
   <ColonyHasNoMore>Nie masz więcej na sprzedaż.</ColonyHasNoMore>
   <TraderWillNotTrade>Handlarz nie chce handlować tym przedmiotem.</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Twój negocjator {0} nie jest zdolny do rozmów z powodu słabego zdrowia.\n\nWpłynie to na ceny towarów.\n\nRozważ wysłanie zdrowego negocjatora.</NegotiatorTalkingImpaired>
-  <ConfirmTraderShortFunds>Handlarz nie ma wystarczająco srebra aby w pełni pokryć koszty transkacji.  Kontynuować mimo to?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>Handlarz nie ma wystarczająco srebra, aby w pełni pokryć koszty transkacji.  Kontynuować mimo to?</ConfirmTraderShortFunds>
   
   <!-- Comms -->
   <SocialSkillIs>Umiejętności socjalne: {0}</SocialSkillIs>
@@ -156,7 +156,7 @@
   <ResearchScreen>Ekran badań</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Czy zgadzasz się wysyłać dane gry na serwer RimWorld aby pomóc twórcom gry balansować rozgrywkę? Jeśli się zgodzisz, Twoje dane zostaną wysyłane co {0} dni (oraz w niektórych rzadkich przypadkach takich jak koniec gry). Opcje prywatności mogą zostać w każdej chwili zmienione w menu opcji.</HistoryUploadMessage>
+  <HistoryUploadMessage>Czy zgadzasz się wysyłać dane gry na serwer RimWorld, aby pomóc twórcom gry balansować rozgrywkę? Jeśli się zgodzisz, Twoje dane zostaną wysyłane co {0} dni (oraz w niektórych rzadkich przypadkach takich jak koniec gry). Opcje prywatności mogą zostać w każdej chwili zmienione w menu opcji.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Możesz podać imię, w przeciwnym razie dane zostaną wysłane anonimowo.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>ZEZWALAJ na wysyłanie</HistoryUploadYes>
   <HistoryUploadNo>NIE ZEZWALAJ na wysyłanie</HistoryUploadNo>
@@ -166,7 +166,7 @@
   <!-- Outfit management -->
   <Outfit>Ubiór</Outfit>
   <SelectOutfit>Wybierz strój...</SelectOutfit>
-  <NewOutfit>Nowy Strój</NewOutfit>
+  <NewOutfit>Nowy strój</NewOutfit>
   <DeleteOutfit>Usuń strój...</DeleteOutfit>
   <OutfitInUse>Strój w użyciu przez {0}.</OutfitInUse>
   <NoOutfitSelected>Brak wybranego stroju</NoOutfitSelected>

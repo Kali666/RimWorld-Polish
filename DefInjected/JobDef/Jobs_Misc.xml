@@ -5,13 +5,13 @@
 
 	<Goto.reportString>Idzie.</Goto.reportString>
 	
-	<GotoSafeTemperature.reportString>Szuka bezpiecznej Temperatury.</GotoSafeTemperature.reportString>
+	<GotoSafeTemperature.reportString>Szuka bezpiecznej temperatury.</GotoSafeTemperature.reportString>
 	
 	<GotoWander.reportString>Chodzi.</GotoWander.reportString>
 	
 	<Wait.reportString>Czeka.</Wait.reportString>
 	
-	<WaitDowned.reportString>Przygnebiony.</WaitDowned.reportString>
+	<WaitDowned.reportString>Przygnębiony.</WaitDowned.reportString>
 	
 	<WaitSafeTemperature.reportString>Odpoczywa w bezpiecznej temperaturze.</WaitSafeTemperature.reportString>
 	

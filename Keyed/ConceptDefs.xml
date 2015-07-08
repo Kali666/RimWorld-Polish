@@ -13,7 +13,7 @@
 
   <ConceptText_Forbid>Koloniści nie będą używać przedmiotów oznaczonych jako ZABRONIONE.\n\nWybierz żywność i metal znajdujące się niedaleko miejsca lądowania i naciśnij klawisz F aby ZEZWOLIĆ na ich używanie.</ConceptText_Forbid>
 
-  <ConceptText_BillsTab>Aby kolonista rozpoczął pracę przy stole, wybierz ten stół, a następnie przejdź do zakładki Zlecenia. Możesz tam wybrać jakie dania mają być gotowane, jakie rzeczy tworzone lub jakie stworzenia ćwiartowane.</ConceptText_BillsTab>
+  <ConceptText_BillsTab>Aby kolonista rozpoczął pracę przy stole, wybierz ten stół, a następnie przejdź do zakładki Zlecenia. Możesz tam wybrać, jakie dania mają być gotowane, jakie rzeczy tworzone lub jakie stworzenia ćwiartowane.</ConceptText_BillsTab>
 
   <ConceptText_GrowingFood>Aby uprawiać rośliny, wybierz POLA UPRAWNE używając menu Architekt.\n\nMogą być ustawione tylko na żyznej glebie.</ConceptText_GrowingFood>
 
@@ -32,17 +32,17 @@
   <ConceptText_WorkOverview1>Możesz ustawić PRIORYTET prac każdego z kolonistów używając zakładki PRZEGLĄD w prawym dolnym rogu ekranu.\n\nKoloniści ZAWSZE będą w pierwszej kolejności wykonywać pracę o najwyższym priorytecie.</ConceptText_WorkOverview1>
   <ConceptText_WorkOverview2>Koloniści nie będą wykonywać prac, które nie zostały im ustawione.\n\nJeżeli żaden kolonista nie ma ustawionego danego rodzaju pracy do wykonania, nie zostanie ona wykonana nigdy.</ConceptText_WorkOverview2>
 
-  <ConceptText_EquippingWeapons>Aby kolonista wyekwipował broń, wybierz kolonistę, a następnie kliknij prawym przyciskiem myszy na broń.\n\nBroń znajduje się na ziemi blisko miejsca lądowania kolonistów.</ConceptText_EquippingWeapons>
+  <ConceptText_EquippingWeapons>Aby kolonista podniósł broń, wybierz kolonistę, a następnie kliknij prawym przyciskiem myszy na broń.\n\nBroń znajduje się na ziemi blisko miejsca lądowania kolonistów.</ConceptText_EquippingWeapons>
 
   <ConceptText_HomeRegion>OBSZAR DOMU wskazuje obszar, który należy czyścić i w którym należy gasić pożary.\n\nUstaw OBSZAR DOMU z kategorii Obszary w menu Architekt.</ConceptText_HomeRegion>
 
-  <ConceptText_StorageTabCategories>W zakładce składowanie można rozwinąć poszczególne kategorie, aby zezwolić lub zabronić składowania konkretnych rzeczy. Aby rozwinąć kategorię, naciśnij trójkąt obok jej nazwy.</ConceptText_StorageTabCategories>
+  <ConceptText_StorageTabCategories>W zakładce 'Składowanie' można rozwinąć poszczególne kategorie, aby zezwolić lub zabronić składowania konkretnych rzeczy. Aby rozwinąć kategorię, naciśnij trójkąt obok jej nazwy.</ConceptText_StorageTabCategories>
 
-  <ConceptText_StorageTab>Można konfigurować składowiska i budynki poprzez zaznaczanie ich i otwarcie ZAKŁADKI SKŁAD znajdującej się powyżej panelu inspektora w lewym dolnym rogu.</ConceptText_StorageTab>
+  <ConceptText_StorageTab>Można konfigurować składowiska i budynki poprzez zaznaczanie ich i otwarcie zakładki 'Skład' znajdującej się powyżej panelu inspektora w lewym dolnym rogu.</ConceptText_StorageTab>
 
-  <ConceptText_SetGrowingZonePlant>Możesz decydować co rośnie na polu uprawnym. Możesz sadzić nawet drzewa!\n\nWybierz pole uprawne i kliknij przycisk 'UPRAWA'.</ConceptText_SetGrowingZonePlant>
+  <ConceptText_SetGrowingZonePlant>Możesz decydować, co rośnie na polu uprawnym. Możesz sadzić nawet drzewa!\n\nWybierz pole uprawne i kliknij przycisk 'UPRAWA'.</ConceptText_SetGrowingZonePlant>
 
-  <ConceptText_SpacePause>Naciśnij SPACJĘ aby zatrzymać lub wznowić upływ czasu.\n\nMożesz wydawać polecenia, gdy czas jest zatrzymany.\n\nPamiętaj o tym - jeśli zrobi się gorąco, naciśnij SPACJĘ!</ConceptText_SpacePause>
+  <ConceptText_SpacePause>Naciśnij SPACJĘ, aby zatrzymać lub wznowić upływ czasu.\n\nMożesz wydawać polecenia, gdy czas jest zatrzymany.\n\nPamiętaj o tym - jeśli zrobi się gorąco, naciśnij SPACJĘ!</ConceptText_SpacePause>
 
   <ConceptText_RightClickClearLetter>Możesz szybko pozbyć się przychodzących listów poprzez kliknięcie w nie prawym przyciskiem myszy.</ConceptText_RightClickClearLetter>
 
@@ -56,6 +56,6 @@
   
   <ConceptText_ArrestingCreatesEnemies>Jeżeli aresztujesz kogoś, frakcja do której należy stanie się wrogiem kolonii.\n\nJeżeli chcesz, aby frakcja była nastawiona przyjaźnie do kolonii, nie próbuj aresztować jej członków!</ConceptText_ArrestingCreatesEnemies>
 
-  <ConceptText_MedicalOperations>Aby zlecić operację chirurgiczną, jak wycięcie organów lub instalacja protezy, otwórz zakładkę ZDROWIE kolonisty i przełącz na kartę OPERACJE.</ConceptText_MedicalOperations>
+  <ConceptText_MedicalOperations>Aby zlecić operację chirurgiczną, jak wycięcie organów lub instalacja protezy, otwórz zakładkę 'Zdrowie' kolonisty i przełącz na kartę OPERACJE.</ConceptText_MedicalOperations>
 
 </LanguageData>

@@ -5,14 +5,14 @@
   <!-- Tab titles -->
   <WorkTab>Praca</WorkTab>
   <OutfitsTab>Ubiór</OutfitsTab>
-  <RestrictionsTab>Restrykcje</RestrictionsTab>
+  <RestrictionsTab>Ograniczenia</RestrictionsTab>
   <FactionsTab>Frakcje</FactionsTab>
   <StatisticsTab>Statystyki</StatisticsTab>
   <HistoryTab>Historia</HistoryTab>
   <WorldTab>Świat</WorldTab>
   
   <!-- Work tab -->   
-  <ManualPriorities>Priorytet manualny</ManualPriorities>
+  <ManualPriorities>Ręczny priorytet</ManualPriorities>
   <HigherPriority>Wyższy priorytet</HigherPriority>
   <LowerPriority>Niższy priorytet</LowerPriority>
   <RelevantSkills>Istotne umiejętności: {0}\nŚrednia z istotnych umiejętności: {1} / {2}</RelevantSkills>
@@ -41,9 +41,9 @@
  <!-- Statistics tab -->
   <Playtime>Czas gry</Playtime>
   <Storyteller>Pisarz SI</Storyteller>
-  <ColonyWealthTotal>Majatek kolonii</ColonyWealthTotal>
+  <ColonyWealthTotal>Majątek kolonii</ColonyWealthTotal>
   <ColonyWealthItems>Majątek kolonii (przedmioty)</ColonyWealthItems>
-  <ColonyWealthBuildings>Majatek kolonii (budynki)</ColonyWealthBuildings>
+  <ColonyWealthBuildings>Majątek kolonii (budynki)</ColonyWealthBuildings>
   <NumThreatBigs>Poważne zagrożenia</NumThreatBigs>
   <NumEnemyRaids>Wrogie ataki</NumEnemyRaids>
   <DamageTaken>Otrzymane obrażenia</DamageTaken>

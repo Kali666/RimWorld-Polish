@@ -53,11 +53,11 @@
   <DesignatorAreaSnowClearClear>Usuń obszar odśnieżania</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>Usuwa obszar odśnieżania. Koloniści przestaną tutaj odśnieżać.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorGrowingZoneDesc>Utwórz obszar na którym koloniści będą uprawiać rośliny.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Utwórz obszar, na którym koloniści będą uprawiać rośliny.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Utwórz obszar na którym koloniści będą składować surowce.\nMożna również rozszerzyć obecne składowisko.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Utwórz obszar, na którym koloniści będą składować surowce.\nMożna również rozszerzyć obecne składowisko.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Utwór obszar na którym koloniści będą składować śmieci.\nMożna również rozszerzyć obecne wysypisko.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Utwór obszar, na którym koloniści będą składować śmieci.\nMożna również rozszerzyć obecne wysypisko.</DesignatorZoneCreateStorageDumpingDesc>
 
   <DesignatorZoneDelete>Usuń obszar</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Usuń obszar, taki jak składowisko, pola czy wysypisko.</DesignatorZoneDeleteDesc>

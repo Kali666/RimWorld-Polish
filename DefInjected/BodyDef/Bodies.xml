@@ -2,16 +2,16 @@
 <LanguageData>
 	
 	<Human.label>Człowiek</Human.label>
-	<QuadrupedAnimalWithPaws.label>Zwierze czworonożne</QuadrupedAnimalWithPaws.label>
-	<QuadrupedAnimalWithPawsAndTail.label>Zwierze czworonożne</QuadrupedAnimalWithPawsAndTail.label>
-	<QuadrupedAnimalWithHooves.label>Zwierze czworonożne</QuadrupedAnimalWithHooves.label>
-	<QuadrupedAnimalWithHoovesAndHump.label>Zwierze czworonożne</QuadrupedAnimalWithHoovesAndHump.label>
-	<QuadrupedAnimalWithHoovesAndTusks.label>Zwierze czworonożne</QuadrupedAnimalWithHoovesAndTusks.label>
-	<QuadrupedAnimalWithHoovesAndHorn.label>Zwierze czworonożne</QuadrupedAnimalWithHoovesAndHorn.label>
-	<QuadrupedAnimalWithClawsTailAndJowl.label>Zwierze czworonożne</QuadrupedAnimalWithClawsTailAndJowl.label>
+	<QuadrupedAnimalWithPaws.label>Zwierzę czworonożne</QuadrupedAnimalWithPaws.label>
+	<QuadrupedAnimalWithPawsAndTail.label>Zwierzę czworonożne</QuadrupedAnimalWithPawsAndTail.label>
+	<QuadrupedAnimalWithHooves.label>Zwierzę czworonożne</QuadrupedAnimalWithHooves.label>
+	<QuadrupedAnimalWithHoovesAndHump.label>Zwierzę czworonożne</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndTusks.label>Zwierzę czworonożne</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesAndHorn.label>Zwierzę czworonożne</QuadrupedAnimalWithHoovesAndHorn.label>
+	<QuadrupedAnimalWithClawsTailAndJowl.label>Zwierzę czworonożne</QuadrupedAnimalWithClawsTailAndJowl.label>
 	<BeetleLike.label>Owad</BeetleLike.label>
 	<TurtleLike.label>Gad</TurtleLike.label>
-	<MechanicalCentipede.label>Mechaniczna dżdżownica</MechanicalCentipede.label>
+	<MechanicalCentipede.label>Mechaniczna stonoga</MechanicalCentipede.label>
 	<Scyther.label>Mechanoid</Scyther.label>
 	<Snake.label>Wąż</Snake.label>
 	<Monkey.label>Małpa</Monkey.label>
