@@ -4,7 +4,7 @@
   <!-- ======== Unlandable biomes ==========-->
   
 	<Ocean.label>Ocean</Ocean.label>
-	<Ocean.description>Ogromny ocean. Bardzo dobry dla ryb, niekocznie dla ciebie.</Ocean.description>	
+	<Ocean.description>Ogromny ocean. Bardzo dobry dla ryb, niekoniecznie dla ciebie.</Ocean.description>	
 	
 	<IceSheet.label>Lodowe pustynie</IceSheet.label>
 	<IceSheet.description>Obszar pokryty skorupą lodową, która może mieć nawet kilometry grubości. Nie ma dostępu do gleby, więc nic tu nie rośnie. Jedyne zwierzęta jakie tu spotkasz migrują do innych miejsc, albo są kompletnie zagubione.</IceSheet.description>	
